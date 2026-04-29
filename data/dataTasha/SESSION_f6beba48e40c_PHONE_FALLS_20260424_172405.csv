@@ -1,0 +1,2 @@
+# epoch_ms,event_ts_ns,AX,AY,AZ,GX,GY,GZ,label,sessionID
+# SUMMARY,duration_ms=63,accN=0,gyroN=0,accAvg=(0.0,0.0,0.0),gyroAvg=(0.0,0.0,0.0)
